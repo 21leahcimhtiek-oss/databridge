@@ -1,0 +1,10 @@
+{
+  "product_name": "Databridge",
+  "description": "Databridge — Aurora Rayes LLC",
+  "plans": [
+    {"id": "starter", "name": "Starter", "amount": 4900, "interval": "month", "trial_days": 14},
+    {"id": "pro", "name": "Pro", "amount": 14900, "interval": "month", "trial_days": 14},
+    {"id": "enterprise", "name": "Enterprise", "amount": 0, "interval": "month", "custom": true}
+  ],
+  "webhook_events": ["checkout.session.completed", "customer.subscription.updated", "customer.subscription.deleted", "invoice.payment_failed"]
+}
