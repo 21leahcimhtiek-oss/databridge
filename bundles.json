@@ -1,0 +1,6 @@
+{
+  "bundles": [
+    {"id": "aurora-core", "name": "Aurora Core Bundle", "includes": ["databridge"], "discount_percent": 20},
+    {"id": "aurora-enterprise", "name": "Aurora Enterprise Suite", "includes": ["databridge"], "discount_percent": 30}
+  ]
+}
