@@ -1,0 +1,16 @@
+{
+  "id": "databridge",
+  "name": "Databridge",
+  "tagline": "Production-ready SaaS built for the Aurora ecosystem.",
+  "description": "A production-grade application built and maintained by Aurora Rayes LLC. Designed for scale, security, and one-command deployment.",
+  "category": "Productivity",
+  "tags": ["aurora", "production", "saas"],
+  "url": "https://auroramarket.org/databridge",
+  "demo": "https://databridge.vercel.app",
+  "repo": "https://github.com/21leahcimhtiek-oss/databridge",
+  "stack": ["Next.js", "Vercel"],
+  "status": "production",
+  "version": "1.0.0",
+  "author": "Aurora Rayes LLC",
+  "license": "MIT"
+}
